@@ -6,3 +6,5 @@ The contents inside the folder must be as it is i.e. don't delete or move any co
 <P>
 There is a .db file (database file) which you can alter by installing db-lite browser.
 </P>
+
+It is a project done by Ashish Kumar.
