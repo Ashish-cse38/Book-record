@@ -1,6 +1,7 @@
 from tkinter import *
 import store_backend
 
+#the function returns the row as specified
 def get_selected_row(event):
 	global selected_tuple
 	index=list1.curselection()[0]
